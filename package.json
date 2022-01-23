@@ -1,12 +1,12 @@
 {
   "name": "block-steam-group-members",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/main.js",
   "type": "module",
   "scripts": {
     "start": "node .",
-    "start:cli":"node src/cli.js"
+    "start:cli": "node src/cli.js"
   },
   "author": "",
   "license": "ISC",
