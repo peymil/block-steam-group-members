@@ -1,11 +1,10 @@
 {
   "name": "block-steam-group-members",
-  "version": "1.0.1",
-  "description": "",
-  "main": "src/main.js",
+  "version": "1.0.4",
+  "description": "A script to block all members of a steam group. ",
+  "main": "src/blockSteamGroupMembers.js",
   "type": "module",
   "scripts": {
-    "start": "node .",
     "start:cli": "node src/cli.js"
   },
   "author": "",
