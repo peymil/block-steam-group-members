@@ -23,7 +23,7 @@ block-steam-group-members [block or unblock] [Session ID] [Steam Secure Login To
 ### Getting sessionid and steamLoginSecure
 
 sessionid and steamLoginSecure is available under Cookie header.
-![Cookie](https://imgur.com/28ckXRb)
+![Cookie](https://i.imgur.com/28ckXRb.png)
 
 
 ## TODO
