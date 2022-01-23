@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import blockGroupMembers from "./blockSteamGroupMembers.js";
 
 const cli = async () => {
