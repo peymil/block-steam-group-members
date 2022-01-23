@@ -1,6 +1,12 @@
-import blockGroupMembers from "./blockSteamGroupMembers";
+import blockGroupMembers from "./blockSteamGroupMembers.js";
 
 const cli = async () => {
+  if (process.argv.length < 3) {
+    console.log(
+      `Usage: block-steam-group-members [block or unblock] [Session ID] [Steam Secure Login Token] [Group URL]`
+    );
+    return;
+  }
   const shouldBlock = process.argv[2];
   let block;
   if (shouldBlock === "block") {
