@@ -1,0 +1,16 @@
+{
+  "name": "blockgroupmemberssteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.0",
+    "steam-group-members": "^1.0.0"
+  }
+}
