@@ -12,5 +12,6 @@
   "dependencies": {
     "node-fetch": "^3.2.0",
     "steam-group-members": "^1.0.0"
-  }
+  },
+  "bin": "src/cli.js"
 }
